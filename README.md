@@ -1,10 +1,8 @@
 # technical-review-jean-francois-himmer
 
-Workspace for the technical review with:
+Workspace for the technical review (60') with:
 - Jean-François Himmer
 - Valentin Barit
-
-Duration: **45-60 minutes**
 
 ## Plan
 
