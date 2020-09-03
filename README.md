@@ -4,7 +4,7 @@ Workspace for the technical review with:
 - Jean-François Himmer
 - Valentin Barit
 
-* duration: **45-60 minutes**
+Duration: **45-60 minutes**
 
 ## Plan
 
